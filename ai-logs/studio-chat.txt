@@ -1,0 +1,13 @@
+Reference app: Cal AI (Calorie Tracker) — one of the highest-revenue AI health apps on the App Store.
+What to build:
+A mobile app where users photograph their food and receive an instant AI-powered nutritional breakdown — calories, protein, carbs, fat. Include a daily food diary, macro progress rings, and streak tracking.
+Key features:
+Camera/photo upload → AI food recognition → macro breakdown
+Daily diary with running calorie total
+Macro progress rings (protein / carbs / fat)
+Weekly history charts
+Streak and goal tracking
+Reference apps to study: Cal AI, MenuFit, MeAgain, Oasis
+Scoring focus: AI integration quality, diary UX, and data visualization polish.
+
+Apply the "Professional Polish" design theme to the app.
