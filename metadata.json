@@ -1,0 +1,6 @@
+{
+  "name": "Calorie AI",
+  "description": "Premium AI calorie tracker and macro scanner that identifies foods from photos, logs logs, and counts streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
