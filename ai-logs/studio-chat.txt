@@ -11,3 +11,5 @@ Reference apps to study: Cal AI, MenuFit, MeAgain, Oasis
 Scoring focus: AI integration quality, diary UX, and data visualization polish.
 
 Apply the "Professional Polish" design theme to the app.
+
+"The text letters on the light theme cards are too light and hard to read. Please update the text colors in MainActivity.kt to use a much darker charcoal or bold black color so everything is high-contrast and easy to read."
